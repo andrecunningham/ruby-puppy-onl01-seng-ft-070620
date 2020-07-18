@@ -10,6 +10,8 @@ class Dog
     
 end
 
-def all []
-  @@all = all
+def self.all []
+  
+  all = @@all
+  
 end
