@@ -10,4 +10,6 @@ class Dog
     
 end
 
-def 
+def all []
+  @@all = all
+end
