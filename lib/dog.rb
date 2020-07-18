@@ -13,7 +13,7 @@ class Dog
     end
      
      def clear_all
-       @clear
+       @clear = all
      end
   
 end
