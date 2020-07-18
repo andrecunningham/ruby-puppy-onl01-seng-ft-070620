@@ -12,7 +12,7 @@ class Dog
    @@all
     end
      
-     def self.clear
+     def self.all
        @clear
        
      end
